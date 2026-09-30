@@ -5,3 +5,5 @@ getTemperatureMessage(temp);
 checkAccess(age);
 
 isEligibleForCampaign(age, country, isSubscribed);
+
+ getDiscount(customerType, purchaseAmount)
